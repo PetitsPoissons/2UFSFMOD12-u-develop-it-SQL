@@ -1,0 +1,29 @@
+{
+	"name": "2ufsfmod12-u-develop-it-sql",
+	"version": "1.0.0",
+	"description": "",
+	"main": "server.js",
+	"scripts": {
+		"test": "jest",
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/PetitsPoissons/2UFSFMOD12-u-develop-it-SQL.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/PetitsPoissons/2UFSFMOD12-u-develop-it-SQL/issues"
+	},
+	"homepage": "https://github.com/PetitsPoissons/2UFSFMOD12-u-develop-it-SQL#readme",
+	"dependencies": {
+		"express": "^4.17.2",
+		"mysql2": "^2.3.3"
+	},
+	"devDependencies": {
+		"dotenv": "^10.0.0",
+		"jest": "^27.4.7"
+	}
+}
